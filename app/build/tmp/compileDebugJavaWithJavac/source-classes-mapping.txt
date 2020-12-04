@@ -1,0 +1,16 @@
+com/example/ballofpredictions/MainActivity.java
+ com.example.ballofpredictions.MainActivity
+ com.example.ballofpredictions.MainActivity$1
+ com.example.ballofpredictions.MainActivity$2
+com/example/ballofpredictions/BuildConfig.java
+ com.example.ballofpredictions.BuildConfig
+com/example/ballofpredictions/RussianBall.java
+ com.example.ballofpredictions.RussianBall
+ com.example.ballofpredictions.RussianBall$1
+com/example/ballofpredictions/Eng_TextView.java
+ com.example.ballofpredictions.Eng_TextView
+com/example/ballofpredictions/EnglishBall.java
+ com.example.ballofpredictions.EnglishBall
+ com.example.ballofpredictions.EnglishBall$1
+com/example/ballofpredictions/Ru_TextView.java
+ com.example.ballofpredictions.Ru_TextView

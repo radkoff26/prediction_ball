@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Ball of Predictions"
+        android:gravity="center"
+        android:textSize="30sp"/>
+
+    <ImageView
+        android:id="@+id/ball"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/bop"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <com.example.ballofpredictions.Eng_TextView
+            android:id="@+id/prediction"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Text"
+            android:gravity="center"
+            android:textSize="35sp"
+            />
+
+    </ScrollView>
+
+
+</LinearLayout>
